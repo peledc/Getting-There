@@ -1,2 +1,2 @@
 # Getting-There
-Just a small test
+Testing the new font :)
